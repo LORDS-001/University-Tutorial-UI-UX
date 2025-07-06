@@ -34,7 +34,7 @@ The design prioritizes:
 
 > This is a screenshot of the design:
 
-![Home Screen](./screenshots/home.png)  
+![Register for Tutorial](./tutorial-registration.png)
 *Home screen with options for buying PQs and registering for tutorials*
 
 ---
