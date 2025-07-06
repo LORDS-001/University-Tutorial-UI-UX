@@ -41,3 +41,8 @@ The design prioritizes:
 
 ## 📁 Folder Structure
 
+> This is the structure of the design:
+
+![Register for Tutorial](./structure.png)
+
+---
